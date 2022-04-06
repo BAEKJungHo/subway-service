@@ -1,8 +1,5 @@
 package nextstep.subway.domain.fare
 
-import nextstep.subway.domain.fare.FarePolicy
-import nextstep.subway.domain.fare.Fare
-import nextstep.subway.domain.fare.DistancePolicy
 import java.util.Arrays
 import java.util.function.Predicate
 import kotlin.math.ceil
